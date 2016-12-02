@@ -1,0 +1,82 @@
+* { text-decoration: none;}
+
+body {
+    /*background-image: url("../images/background4.jpg");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: cover;*/
+    background-color: #fff;
+    font-family: Gotham-thin;
+}
+
+.displaynone {
+    display: none;
+}
+
+.presentation__container{
+    top: 0;
+    background-color: white;
+    height: 700px;
+}
+
+.camillebasset{
+    text-align: center;
+    padding-top: 250px;
+    font-family: Montserrat-black;
+    text-transform: uppercase;
+    font-size: 65px;
+    letter-spacing: 22px;
+}
+
+.camillebasset_description {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.typewrite {
+    color: #000;
+    opacity: 1;
+    font-weight: 100;
+    font-size: 24px;
+}
+
+/*
+**
+*/
+
+.experience__container {
+    height:900px;
+    background-color: #000;
+}
+
+.experienceMovesToTop{
+    height:900px;
+    background-color: #000;
+    margin-top: -100px;
+}
+
+.drop{
+    position: absolute;
+    margin: auto;
+    top:660px;
+    left:0;
+    right: 0;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    background-color: black;
+
+    -vendor-animation-duration: 3s;
+    -vendor-animation-delay: 2s;
+    -vendor-animation-iteration-count: infinite;
+
+    /*animation: bounce 1s infinite linear;*/
+}
+
+
+
+
+
+/*
+**
+*/
+
